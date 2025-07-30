@@ -41,7 +41,7 @@ const newsData = {
   },
   ar: {
     images: [
-      "/img/news/news14.png",
+    "/img/news/news14.png",
     "/img/main/logo-blue.png",
     "/img/news/news2.jpg",
     "/img/news/news13.jpeg",
