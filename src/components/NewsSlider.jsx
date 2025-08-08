@@ -22,6 +22,7 @@ const newsData = {
       "/img/news/news1.jpg",
     ],
     texts: [
+      "In a comment published by Al-Riyadh newspaper, retired Brigadier General Dr. Abdulaziz Al-Hoshan, a researcher in family crime issues, explained that the rise in crimes against Saudi students abroad is linked to the increasing crime rates in Western societies. He attributed this to the spread of drugs and the influence of negative media, stressing the importance of awareness and caution to prevent such incidents.",
       "Statement by Dr. Abdulaziz Al-Hoshan: He confirmed that the ministry has thwarted criminal plots and networks targeting the nation’s security and its youth, achieving record-breaking results in recent anti-crime efforts. He emphasized the importance of local and international cooperation in information exchange, tracking criminals, and uncovering smuggling and promotion methods",
         "We extend our congratulations and best wishes to the Custodian of the Two Holy Mosques, His Royal Highness the Crown Prince, and His Royal Highness the Minister of Interior—may Allah preserve them—on the successful Hajj season of this year, 1446 AH. We ask Allah Almighty to protect our leadership, our nation, and our brave security forces, and to continue to bless us with security, safety, stability, and prosperity",
         "Security expert Major General Dr. Barakah Al-Hoshan: \"Drone aircraft monitor everything happening in the holy sites and the Makkah region, and cameras cover all control rooms completely.\" This is according to Al Ekhbariya Channel",
@@ -38,7 +39,6 @@ const newsData = {
         "Amnoon Security Consulting Office is honored to present a working paper at the 'Critical Infrastructure Security' seminar, which will be held in Salalah, Sultanate of Oman, under the title 'Port and Maritime Facility Security.' The paper on airport security will be presented by retired Brigadier General Yusuf bin Ahmed Al-Qahtani",
         "Amnoon Security Consulting Office is honored to participate in the third seminar on 'Critical Infrastructure Security,' which will be held in Salalah, Sultanate of Oman, under the title 'Port and Maritime Facility Security.' We will present a working paper on 'The Role of Digital Security in Protecting Critical Infrastructure Data,' delivered by retired Brigadier General Dr. Barakah bin Zamil Al-Hoshan",
         "Amnoon Security Consulting Office participates in the third seminar on the security and safety of critical infrastructure, presenting two working papers delivered by a selection of security consultants. The seminar will be held in Dhofar Governorate, Sultanate of Oman, from September 2-4",
-        "In a comment published by Al-Riyadh newspaper, retired Brigadier General Dr. Abdulaziz Al-Hoshan, a researcher in family crime issues, explained that the rise in crimes against Saudi students abroad is linked to the increasing crime rates in Western societies. He attributed this to the spread of drugs and the influence of negative media, stressing the importance of awareness and caution to prevent such incidents.",
     ]
   },
   ar: {
@@ -62,6 +62,7 @@ const newsData = {
     "/img/news/news1.jpg",
     ],
     texts: [
+      "في تعليق نشرته صحيفة الرياض، أوضح العميد المتقاعد د. عبدالعزيز الحوشان، الباحث في قضايا جرائم الأسرة، أن تزايد الجرائم ضد المبتعثين السعوديين في الخارج يعود إلى ارتفاع معدلات الجريمة في المجتمعات الغربية، مرجعًا ذلك إلى تفشي المخدرات وتأثير الإعلام السلبي، مؤكدًا على أهمية الوعي والحيطة للوقاية من مثل هذه الحوادث",
               "تصريح د. عبدالعزيز الحوشان: أكد أن الوزارة أفشلت مخططات وشبكات إجرامية تستهدف أمن الوطن وشبابه وحققت أرقامًا قياسية في المكافحة مؤخرًا. وشدد على أهمية التعاون المحلي والدولي لتبادل المعلومات وملاحقة المجرمين وكشف أساليب التهريب والترويج",
         "نبارك ونهنىء مقام خادم الحرمين الشريفين و سمو ولي العهد الامين وسمو وزير الداخلية -حفظهم الله-بمناسبة نجاح موسم الحج لهذا العام 1446 هـ، سائلين المولى عز وجل أن يحفظ قيادتنا و وطننا ورجال أمننا البواسل وأن يديم علينا نعمة الأمن والأمان والاستقرار والرخاء",
         "المختص الأمني اللواء الدكتور بركة الحوشان: \"طائرات الدرون ترصد كل ما يحدث في المشاعر المقدسة ومنطقة مكة المكرمة، والكاميرات تغطي جميع غرف المراقبة بالكامل\" وذلك وفقًا لما نقلته قناة الإخبارية",
@@ -78,7 +79,6 @@ const newsData = {
         "يتشرف مكتب آمنون للاستشارات الأمنية بتقديم ورقة عمل خلال ندوة 'أمن المرافق الحيوية'، والتي ستُعقد في صلالة، سلطنة عمان، تحت عنوان 'أمن الموانئ والمرافق البحرية'. ستتناول الورقة أمن المطارات، وسيقدمها اللواء المتقاعد يوسف بن أحمد القحطاني",
         "يتشرف مكتب آمنون للاستشارات الأمنية بالمشاركة في الندوة الثالثة بعنوان 'أمن المرافق الحيوية'، والتي ستعقد في صلالة، سلطنة عمان، تحت عنوان 'أمن الموانئ والمرافق البحرية'. سنقدم ورقة عمل حول 'دور الأمن الرقمي في حماية بيانات المرافق الحيوية'، يقدمها اللواء الدكتور المتقاعد بركة بن زامل الحوشان",
         "يتشرف مكتب آمنون للاستشارات الأمنية بالمشاركة في الندوة الثالثة لأمن وسلامة المرافق الحيوية، حيث سيقدم ورقتي عمل يتم عرضهما من قِبل نخبة من المستشارين الأمنيين. ستعقد الندوة في محافظة ظفار، سلطنة عمان، خلال الفترة من 2 إلى 4 سبتمبر",
-        "في تعليق نشرته صحيفة الرياض، أوضح العميد المتقاعد د. عبدالعزيز الحوشان، الباحث في قضايا جرائم الأسرة، أن تزايد الجرائم ضد المبتعثين السعوديين في الخارج يعود إلى ارتفاع معدلات الجريمة في المجتمعات الغربية، مرجعًا ذلك إلى تفشي المخدرات وتأثير الإعلام السلبي، مؤكدًا على أهمية الوعي والحيطة للوقاية من مثل هذه الحوادث",
       ]
   }
 };
