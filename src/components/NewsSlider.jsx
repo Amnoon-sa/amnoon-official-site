@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 const newsData = {
   en: {
     images: [
+      "/img/news/news16.jpeg",
       "/img/news/news15.jpg",
       "/img/news/news14.png",
       "/img/main/logo-blue.png",
@@ -39,10 +40,12 @@ const newsData = {
       "Amnoon Security Consulting Office is honored to present a working paper at the 'Critical Infrastructure Security' seminar, which will be held in Salalah, Sultanate of Oman, under the title 'Port and Maritime Facility Security.' The paper on airport security will be presented by retired Brigadier General Yusuf bin Ahmed Al-Qahtani",
       "Amnoon Security Consulting Office is honored to participate in the third seminar on 'Critical Infrastructure Security,' which will be held in Salalah, Sultanate of Oman, under the title 'Port and Maritime Facility Security.' We will present a working paper on 'The Role of Digital Security in Protecting Critical Infrastructure Data,' delivered by retired Brigadier General Dr. Barakah bin Zamil Al-Hoshan",
       "Amnoon Security Consulting Office participates in the third seminar on the security and safety of critical infrastructure, presenting two working papers delivered by a selection of security consultants. The seminar will be held in Dhofar Governorate, Sultanate of Oman, from September 2-4",
+      "Amnon Security Consulting Company is pleased to congratulate the Custodian of the Two Holy Mosques and His Royal Highness the Crown Prince – may God protect them – on the occasion of the 95th Saudi National Day, asking Almighty God to protect our leadership and our country, and to continue to bless us with security, safety, stability, and prosperity",
     ]
   },
   ar: {
     images: [
+    "/img/news/news16.jpeg",
     "/img/news/news15.jpg",
     "/img/news/news14.png",
     "/img/main/logo-blue.png",
@@ -79,6 +82,7 @@ const newsData = {
       "يتشرف مكتب آمنون للاستشارات الأمنية بتقديم ورقة عمل خلال ندوة 'أمن المرافق الحيوية'، والتي ستُعقد في صلالة، سلطنة عمان، تحت عنوان 'أمن الموانئ والمرافق البحرية'. ستتناول الورقة أمن المطارات، وسيقدمها اللواء المتقاعد يوسف بن أحمد القحطاني",
       "يتشرف مكتب آمنون للاستشارات الأمنية بالمشاركة في الندوة الثالثة بعنوان 'أمن المرافق الحيوية'، والتي ستعقد في صلالة، سلطنة عمان، تحت عنوان 'أمن الموانئ والمرافق البحرية'. سنقدم ورقة عمل حول 'دور الأمن الرقمي في حماية بيانات المرافق الحيوية'، يقدمها اللواء الدكتور المتقاعد بركة بن زامل الحوشان",
       "يتشرف مكتب آمنون للاستشارات الأمنية بالمشاركة في الندوة الثالثة لأمن وسلامة المرافق الحيوية، حيث سيقدم ورقتي عمل يتم عرضهما من قِبل نخبة من المستشارين الأمنيين. ستعقد الندوة في محافظة ظفار، سلطنة عمان، خلال الفترة من 2 إلى 4 سبتمبر",
+      "يسر شركة امنون للاستشارات الأمنية أن تهنئ مقام خادم الحرمين الشريفين و سمو ولي عهده الأمين - رعاهم الله - بمناسبة #اليوم_الوطني_السعودي_95 سائلين المولى عز وجل أن يحفظ قيادتنا و وطننا وأن يديم علينا نعمة الأمن والأمان والاستقرار والرخاء#عزنا_بطبعنا",
       ]
   }
 };
